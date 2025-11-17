@@ -98,13 +98,9 @@ Data kontak disimpan menggunakan **PHP Session**, sehingga cocok untuk tugas kam
 
 📷 Screenshots
 <div align="center">
-🔐 Halaman Login
 <img src="https://github.com/user-attachments/assets/aee7e519-9abf-4cc0-a260-e74ae2544edd" width="350" style="border-radius:10px; margin:10px;" />
-📋 Daftar Kontak
 <img src="https://github.com/user-attachments/assets/33b1f6ea-3b9d-48ca-bfe5-28b0df3aacbc" width="350" style="border-radius:10px; margin:10px;" />
-➕ Tambah Kontak
 <img src="https://github.com/user-attachments/assets/bc8ec9f8-31d5-46c2-ace8-d1c1cb483a6f" width="350" style="border-radius:10px; margin:10px;" />
-✏️ Edit Kontak
 <img src="https://github.com/user-attachments/assets/ae79f9ea-3a3b-4f2c-8c49-769b1ab8bdc9" width="350" style="border-radius:10px; margin:10px;" /> </div>
 
 ---
