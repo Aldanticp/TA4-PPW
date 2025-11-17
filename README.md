@@ -104,22 +104,3 @@ Data kontak disimpan menggunakan **PHP Session**, sehingga cocok untuk tugas kam
 <img src="https://github.com/user-attachments/assets/ae79f9ea-3a3b-4f2c-8c49-769b1ab8bdc9" width="350" style="border-radius:10px; margin:10px;" /> </div>
 
 ---
-
-## 🤝 Kontribusi
-
-Silakan fork dan kembangkan fitur seperti:
-
-* Penyimpanan ke file
-* Desain UI lebih lengkap
-* Penambahan pencarian kontak
-* Pagination
-
----
-
-## 📜 Lisensi
-
-Proyek ini menggunakan lisensi bebas — silakan gunakan untuk belajar atau tugas kuliah.
-
----
-
-Kalau mau, saya bisa buatkan **deskripsi GitHub repository**, **banner**, atau **preview gambar untuk README**.
